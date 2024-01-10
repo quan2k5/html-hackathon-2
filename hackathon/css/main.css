@@ -1,0 +1,9 @@
+@import url(./layout/header.css);
+@import url(./layout/infor-detail.css);
+@import url(./layout/article.css);
+@import url(./layout/footer.css);
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}

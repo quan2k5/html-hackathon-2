@@ -1,0 +1,95 @@
+header{
+    width:100%;
+    background-color: antiquewhite;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.begin-page {
+    width:100%;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.father-logo {
+    display:flex;
+    width:10%;
+    height:50%;
+}
+.main-logo {
+    width:30%;
+    height:100%;
+
+}
+.text-logo {
+    width: 70%;
+    height:100%;
+}
+.page {
+    width:10%;
+    height:100%;
+    display: flex;
+    justify-content: space-between;
+    width:50%;
+    height:50%;
+    align-items: flex-end;
+}
+.small-page{
+    color: gray;
+}
+.button {
+    width:10%;
+    height:60%;
+    background-color:white;
+    border: 1px solid gray;
+    border-radius:5px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: cornflowerblue;
+    color: white;
+
+}
+.icon-button {
+    margin-left: 3px;  
+}
+.material-symbols-outlined {
+    width: 5px;
+}
+.second-header {
+    width:100%;
+    height:848px;
+    display: flex;
+}
+.section-hero {
+    width:556px;
+    height:100% ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+}
+.introduction-name {
+    color: grey;
+    font-size: 20px;
+}
+.introduction-job {
+    width: 400px;
+    font-size: 40px;
+    font-weight: 900;
+    text-align: center;
+}
+.dowload-cv {
+    width: 100px;
+    height: 30px;
+    background-color:cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: 800;
+    font-size: 14px;
+}
+
+

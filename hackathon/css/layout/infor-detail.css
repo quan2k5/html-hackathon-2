@@ -1,0 +1,116 @@
+.total-personal-details {
+    width:100%;
+    height: 300px;
+    padding-left: 100px;
+    padding-right:100px;
+    padding-top: 100px;
+    display: flex;
+    gap:10%;
+}
+.personal-detail {
+    width: 40%;
+    height:350px;
+    display: flex;
+    gap:10px;
+    flex-direction: column;
+}
+.hero-person{
+    font-size:25px ;
+    font-weight: 800;
+    text-decoration: underline;
+
+}
+.notice-person{
+    font-size: 20px;
+    font-weight: 700;
+    color: gray;
+}
+.infor-detail {
+    width: 50%;
+    display: flex;
+    flex-direction: column; 
+    gap:10px;
+}
+.icon-person{
+    display: flex;
+    width: 140px;
+    display: flex;
+    justify-content: space-between;   
+}
+.icon-circle{
+    width: 30px;
+    height: 30px;
+    border-radius: 60%;
+    border: 1px solid grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.total-part {
+    width: 350px;
+    display: flex;
+    justify-content: space-between;
+    gap:10px;
+}
+.title-person {
+    width: 150px;
+    font-weight: 900;
+    font-size: 17px;
+}
+.sign {
+    width: 10px;
+    
+}
+.infor-person {
+    width: 200px;
+    color:cornflowerblue;
+    font-weight: 500;
+    font-size: 17px;
+}
+.skill{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+}
+.skill-1{
+    width: 100%;
+    padding-left:160px ;
+    padding-right: 160px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.skill-2{
+    width: 100%;
+    padding-left: 350px;
+    padding-right:350px ;
+    display: flex;
+    justify-content: space-between;
+}
+.detail-skill {
+    display: flex;
+    gap:10px;
+    width: 200px;
+    align-items: center;
+    border: 1px solid rgba(128, 128, 128, 0.26);
+    border-radius:5px ;
+
+}
+.picture-app {
+    width: 50px;
+    height:50px;
+}
+.content-skill {
+    display: flex;
+    flex-direction: column;
+}
+.content-skill-1 {
+    font-size: 18px;
+    font-weight: 900;
+}
+.content-skill-2 {
+    font-size: 14px;
+    font-weight: 500;
+    color: grey;
+}
+
